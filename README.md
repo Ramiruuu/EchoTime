@@ -1,6 +1,9 @@
 # EchoTime
 EchoTime Capsule is a unique web application built with HTML, CSS, and JavaScript that allows users to create digital "time capsules" tied to specific geolocations. Users can input a memory, lock it to their current location, and later unlock an abstract, animated "echo" of that memory when they return to the same spot. It’s a blend of nostalgia, generative art, and real-world interaction.
 
+## Sample 
+![image](https://github.com/user-attachments/assets/0fd8d152-6ebf-421c-8578-8622dd5532c2)
+
 ## Features
 - **Memory Input**: Write a short memory to encapsulate.
 - **Geolocation Lock**: Capsules are tied to your current location (within ~100 meters) using the browser's Geolocation API.
